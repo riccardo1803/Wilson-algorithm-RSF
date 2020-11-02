@@ -14,5 +14,5 @@ My Master thesis project, with the explanation of Wilson's algorithm
 and mathematical proof that it is a sampling algorithm for the
 Random Spanning Forest (chapter 3)
 
-- wilson1.mp4 - 
-A simulation of the implemented algorithm, 8x8 grid, with parameter q = 0.05.
+- wilsonRSF.py - 
+Python file containing all the functions I implemented
